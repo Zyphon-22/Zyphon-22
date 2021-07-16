@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming,programming,game development
 - 🌱 I’m currently learning java,C# (unity) and css
 - 💞️ I’m looking to collaborate on Games,python apps, java apps
-- 📫 How to reach me Zyphon_22 (itch.io)
+- 📫 How to reach me: (Discord) Zyphon#2997
 - Languages I know : GDScript,python,html and javascript
 
 <!---
